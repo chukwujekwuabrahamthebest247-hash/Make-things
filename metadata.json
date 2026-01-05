@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Virtuoso",
+  "description": "An interactive piano application with a built-in AI music tutor powered by Gemini, featuring real-time synthesis and music theory insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
